@@ -1,3 +1,4 @@
+DEPRECATED
 # grunt-contrib-connect [![Build Status](https://secure.travis-ci.org/gruntjs/grunt-contrib-connect.png?branch=master)](http://travis-ci.org/gruntjs/grunt-contrib-connect)
 
 > Start a connect web server.
